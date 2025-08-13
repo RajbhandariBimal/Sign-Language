@@ -1,0 +1,22 @@
+# ASL Alphabet Recognition - Python Requirements
+# Install with: pip install -r requirements.txt
+
+# Core ML and Computer Vision
+tensorflow>=2.10.0
+keras>=2.10.0
+opencv-python>=4.7.0
+numpy>=1.21.0
+
+# Data Processing and Visualization
+scikit-learn>=1.2.0
+matplotlib>=3.5.0
+Pillow>=9.0.0
+
+# Dataset Download (Optional)
+kaggle>=1.5.12
+
+# Enhanced Hand Detection (Optional - for better accuracy)
+# mediapipe>=0.9.0
+
+# Additional utilities
+tqdm>=4.64.0
